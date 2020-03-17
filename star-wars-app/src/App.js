@@ -10,6 +10,7 @@ function App() {
           src="https://logos-download.com/wp-content/uploads/2016/09/Star_Wars_logo-1.png"
           width="300"
           alt="logo"
+          data-testid="sw-header-img"
         />
       </header>
       <StarWarsCharacters />
